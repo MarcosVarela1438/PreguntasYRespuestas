@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="./estilos/style.css">
+    <title>Cuestionario Virtual</title>
+</head>
+<body>
+    <main>
+ 
+        <div class="container">
+            <div class="row mt-2">
+                <div class="col">
+                    <h2 class="d-flex justify-content-center"><strong>Preguntas y respuestas</strong></h2>
+    
+                    <form>
+                        <div class="form-group">
+                            <label for="nombre"><strong>Nombre</strong></label>
+                            <input type="text" class="form-control is-valid" id="nombre" aria-describedby="nombreHelp"
+                                placeholder="Ingresa su nombre">
+                        </div>
+                        <div class="form-group">
+                            <label for="edad"><strong>Apellido</strong></label>
+                            <input type="text" class="form-control is-valid" id="apellido" aria-describedby="apellidoHelp"
+                                placeholder="Ingresa su apellido">
+                        </div>
+                        <div class="form-group">
+                            <label for="email"><strong>Edad</strong></label>
+                            <input type="email" class="form-control is-valid" id="edad" aria-describedby="edadHelp"
+                                placeholder="Ingresa su edad">
+                        </div>
+                        <div class="d-flex justify-content-between mb-3">
+                            <button type="button" class="btn btn-dark" id="btnEmpezar">Empezar</button>
+                            <button type="button" class="btn btn-success" id="btnResultado">Resultados</button>         
+                        </div>
+    
+                    </form>
+                </div>
+            </div>
+    
+            <div id="puntajeFinal" class="row mt-3">
+                <div class="col">
+                    <div id="muestra-resultados" >
+                        <table id="listaResultados" class="table">
+                            <thead>
+                                <tr>
+                                    <th>Nombre</th>
+                                    <th>Apellido</th>
+                                    <th>Edad</th>
+                                    <th>Puntaje</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+
+
+
+        <!-- BOOTSTRAP -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+
+        <!-- SWEET ALERT -->
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+        <!-- JAVASCRIPT -->
+        <script src="examen.js"></script>
+        <script src="inicio.js"></script>
+ 
+
+</body>
+</html>

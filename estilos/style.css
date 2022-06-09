@@ -1,0 +1,42 @@
+main {
+    height: 730px;
+    background-image: url(../imagenes/Futbol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    overflow-y: auto;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+th {
+    color: white;
+}
+td {
+    color: white;
+}
+
+#puntajeFinal {
+    height: 300px;
+    overflow-y: auto;
+}
+
+#tituloPregunta {
+    font-size: 30px;
+
+}
+
+#alternativasRespuestas {
+    margin: 30px;
+    padding: 30px;
+}
+
+.form-check {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#temporizador {
+    font-size: 30px;
+    text-align: end;
+}

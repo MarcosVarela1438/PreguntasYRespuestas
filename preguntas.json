@@ -1,0 +1,122 @@
+[
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Con cuantos paises jugo la seleccion argentina en el mundial de 1990 que ya no son oficiales?",
+        "opciones": [
+            {
+                "alternativa1": "1",
+                "alternativa2": "2",
+                "alternativa3": "3",
+                "alternativa4": "4"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "Contando que ya esta confirmada la sede del mundial 2026 ¿Que pais organizo mas mundiales en la historia?",
+        "opciones": [
+            {
+                "alternativa1": "Mexico",
+                "alternativa2": "Alemania",
+                "alternativa3": "Brasil",
+                "alternativa4": "Inglaterra"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Cuantas personas han salido campeon del mundo siendo jugador y entrenador en diferentes mundiales?",
+        "opciones": [
+            {
+                "alternativa1": "1",
+                "alternativa2": "2",
+                "alternativa3": "3",
+                "alternativa4": "5"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Cual es el unico pais que solo salio campeon del mundo siendo anfitrion?",
+        "opciones": [
+            {
+                "alternativa1": "Uruguay",
+                "alternativa2": "Francia",
+                "alternativa3": "Inglaterra",
+                "alternativa4": "Italia"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Cual es el maximo goleador de los mundiales?",
+        "opciones": [
+            {
+                "alternativa1": "Miroslav Klose",
+                "alternativa2": "Ronaldo",
+                "alternativa3": "Pelé",
+                "alternativa4": "Gerd Muller"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Cual de estos equipos participo del mundial 1950, luego de la segunda guerra mundial?",
+        "opciones": [
+            {
+                "alternativa1": "Alemania",
+                "alternativa2": "Rusia",
+                "alternativa3": "Italia",
+                "alternativa4": "Japon"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿Que equipo ha logrado la mayor goleada en un mundial?",
+        "opciones": [
+            {
+                "alternativa1": "Alemania",
+                "alternativa2": "Brasil",
+                "alternativa3": "Francia",
+                "alternativa4": "Hungría"
+            }
+        ]
+    },
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Como se llamaba el trofeo anterior del mundial?",
+        "opciones": [
+            {
+                "alternativa1": "Copa Mundial de la FIFA",
+                "alternativa2": "Trofeo Jules Rimet",
+                "alternativa3": "Trofeo Josue Novosti",
+                "alternativa4": "Trofeo Fritz Walter"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Que pais ha participado de mas finales en la historia",
+        "opciones": [
+            {
+                "alternativa1": "Brasil",
+                "alternativa2": "Argentina",
+                "alternativa3": "Alemania",
+                "alternativa4": "Italia"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Cuantos paises seran los participantes del mundial del 2026?",
+        "opciones": [
+            {
+                "alternativa1": "48",
+                "alternativa2": "32",
+                "alternativa3": "64",
+                "alternativa4": "50"
+            }
+        ]
+    }
+]
